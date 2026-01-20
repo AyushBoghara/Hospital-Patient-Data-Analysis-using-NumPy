@@ -32,4 +32,4 @@ The script performs the following operations:
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/hospital-data-analysis.git](https://github.com/your-username/hospital-data-analysis.git)
+   git clone [https://github.com/AyushBoghara/Hospital-Patient-Data-Analysis-using-NumPy.git](https://github.com/AyushBoghara/Hospital-Patient-Data-Analysis-using-NumPy.git)
